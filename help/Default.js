@@ -1,0 +1,5 @@
+{
+	"Default": {
+		description: "General fucntions"
+	}
+}
